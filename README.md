@@ -6,7 +6,7 @@ These days I'm deep in the embedded world: designing PCBs in [KiCAD](https://www
 
 📄 [My CV](https://michelrandahl.github.io/cv/)
 
-_I use [Codeberg](https://codeberg.org/michelrandahl) 🇪🇺 for new personal projects._
+_I also use [Codeberg](https://codeberg.org/michelrandahl) for new personal projects._
 
 ## Natural Habitat 🖥️
 You'll find me in my [Linux terminal](https://github.com/alacritty/alacritty) — armed with [Neovim](https://github.com/neovim/neovim), a keyboard-driven workflow on my [ZSA Voyager](https://www.zsa.io/voyager), and [NixOS](https://nixos.org/) tying it all together.
